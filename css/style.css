@@ -79,3 +79,7 @@ footer {
 	background: #fff;
 	font-size: 0.8em;
 }
+
+.clearfix {
+  clear: both;
+}
